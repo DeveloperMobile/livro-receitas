@@ -1,6 +1,6 @@
-#Livro de Recitas
+# Livro de Recitas 👨‍🍳
 
-###Olá! Bem vindo ao meu livro de receitas
+### Olá! Bem vindo ao meu livro de receitas 👋
 
 * Strogonoff de Frango
 * Pavê
