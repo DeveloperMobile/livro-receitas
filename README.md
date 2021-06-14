@@ -1,4 +1,4 @@
-# Livro de Recitas
+# Livro de Recitas 👨‍🍳
 
 ### Olá! Bem vindo ao meu livro de receitas
 
